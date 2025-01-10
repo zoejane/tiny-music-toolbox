@@ -3,7 +3,7 @@
 [English](#english) | [中文](#中文)
 
 <a name="english"></a>
-## English
+## Tiny Music Toolbox
 
 A simple music theory toolbox for learning music, composing melodies, and exploring chord progressions.  
 Supports both command-line and Python API to make your music journey more enjoyable! (。・∀・)ノ
@@ -94,7 +94,7 @@ Thanks to all contributors! (◍•ᴗ•◍)
 ---
 
 <a name="中文"></a>
-## 中文
+## 小小音乐工具箱
 
 无论是学习音乐、创作旋律，还是探索和弦搭配，Tiny Music Toolbox 都能轻松搞定。  
 支持命令行和 Python API，让你的音乐旅程更有趣！(。・∀・)ノ
